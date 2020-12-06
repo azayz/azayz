@@ -40,7 +40,7 @@ I'm also a Team Lead @ [Data-Colab](https://github.com/Data-Co-Lab) NGO, Trainer
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via azizbelaweid@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1oQlgPh-NrhZSvHcoxk2Wmqg9HbMLA3iw/view?usp=sharing) to get more info.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
 
@@ -62,6 +62,6 @@ I'm also a Team Lead @ [Data-Colab](https://github.com/Data-Co-Lab) NGO, Trainer
 
 
 
-![Aziz's github stats](https://github-readme-stats.vercel.app/api?username=azayz&show_icons=true&hide_border=true)
+![Aziz's github stats](https://github-readme-stats.vercel.app/api?username=azayz&show_icons=true&hide_border=true&theme=dark)
 
 ⭐️ From [azayz](https://github.com/azayz)
