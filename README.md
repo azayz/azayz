@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 Hi there, I'm **Aziz Belaweid**, a **Kaggle Expert** ( Ranked Top 1% Worldwide 🌍 ) and a **Software Engineering student** 🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@azayz](https://github.com/azayz), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/aziz69), and an Artificial Intelligence intern 👨🏽‍💼. 
 I'm also a Team Lead @ [Data-Colab](https://github.com/Data-Co-Lab) NGO, Trainer at International Student Week and head of ML at DSC INSAT.
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently a part time Machine Learning Engineer in [Datavision](http://www.datavision.company/?fbclid=IwAR1bXB-aJ2zcQmWuoEUTfDP0XSn5icZ0YsFYq35WVC33JSbXGt5eKq6Y4H8);
@@ -42,7 +44,7 @@ I'm also a Team Lead @ [Data-Colab](https://github.com/Data-Co-Lab) NGO, Trainer
 - 📫 Please email via azizbelaweid@gmail.com to reach me.
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1oQlgPh-NrhZSvHcoxk2Wmqg9HbMLA3iw/view?usp=sharing) to get more info.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
+  
 
 
 **Languages and Tools:**  
