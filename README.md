@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br />
 
 Hi there, I'm **Aziz Belaweid**, a **Kaggle Expert** ( Ranked Top 1% Worldwide 🌍 ) and a **Software Engineering student** 🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@azayz](https://github.com/azayz), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/aziz69), and an Artificial Intelligence intern 👨🏽‍💼. 
-
+I'm also a Team Lead @ [Data-Colab](https://github.com/Data-Co-Lab) NGO, Trainer at International Student Week and head of ML at DSC INSAT.
 
 **Talking about Personal Stuffs:**
 
