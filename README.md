@@ -36,7 +36,6 @@ I'm also a Team Lead @ [Data-Colab](https://github.com/Data-Co-Lab) NGO, Trainer
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently a part time Machine Learning Engineer in [Datavision](http://www.datavision.company/?fbclid=IwAR1bXB-aJ2zcQmWuoEUTfDP0XSn5icZ0YsFYq35WVC33JSbXGt5eKq6Y4H8);
 - 🌱 I’m currently learning Deep Reinforcement Learning, Docker and Kubernetes; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, Deploying models, etc..;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
