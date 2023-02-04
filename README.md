@@ -30,6 +30,7 @@ Hi, I'm a Machine Learning Engineer @ JinaAI, I'm interested in both Research ðŸ
 
 
 Check my Medium Articles: https://medium.com/@azizbelaweid
+<br />
 Connect to my LinkedIn profile: https://www.linkedin.com/in/mohamed-aziz-belaweid/
 
 - ðŸ’¼ I have a masters's degree in Software Engineering;
