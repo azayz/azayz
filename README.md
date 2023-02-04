@@ -22,26 +22,20 @@ Here are some ideas to get you started:
 <a href="https://www.kaggle.com/aziz69">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
-<a href="https://www.facebook.com/aziz.belaweid/">
-  <img align="left" alt="Aziz's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 
 <br />
 <br />
 
-Hi there, I'm **Aziz Belaweid**, a **Kaggle Expert** ( Ranked Top 1% Worldwide 🌍 ) and a **Software Engineering student** 🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@azayz](https://github.com/azayz), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/aziz69), and an Artificial Intelligence intern 👨🏽‍💼. 
-I'm also a Team Lead @ [Data-Colab](https://github.com/Data-Co-Lab) NGO, Trainer at International Student Week and head of ML at DSC INSAT.
+Hi, I'm a Machine Learning Engineer @ JinaAI, I'm interested in both Research 🚀 and Engineering, I like reading papers and actually bringing their innovation to life. I've worked on Language model training from scratch to specific domains, Extracting information from text using Named Entity Recognition, Multi Modal search systems, Image classification and detection. Also worked in operations side such as model deployment, reproducibility, scaling and inference.   
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
 
-**Talking about Personal Stuffs:**
+Check my Medium Articles: https://medium.com/@azizbelaweid
+Connect to my LinkedIn profile: https://www.linkedin.com/in/mohamed-aziz-belaweid/
 
-- 🌱 I’m currently learning Deep Reinforcement Learning, Docker and Kubernetes; 
-- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, Deploying models, etc..;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
-- 💬 Ask me about anything, I am happy to help;
+- 💼 I have a masters's degree in Software Engineering;
+- 💬 Ask me about anything, I am happy to help (If I can, haha);
 - 📫 Please email via azizbelaweid@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1oQlgPh-NrhZSvHcoxk2Wmqg9HbMLA3iw/view?usp=sharing) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1Azg5eCpFtlMPyU5ChbMJr3xr3Ae49kRG/view?usp=share_link) to get more info.
 
   
 
@@ -51,14 +45,11 @@ I'm also a Team Lead @ [Data-Colab](https://github.com/Data-Co-Lab) NGO, Trainer
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 
 
