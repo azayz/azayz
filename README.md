@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Hi, I'm a Machine Learning Engineer @ JinaAI, I'm interested in both Research 🚀 and Engineering, I like reading papers and actually bringing their innovation to life. I've worked on Language model training from scratch to specific domains, Extracting information from text using Named Entity Recognition, Multi Modal search systems, Image classification and detection. Also worked in operations side such as model deployment, reproducibility, scaling and inference.   
+Hi, I'm a Machine Learning/ Data Engineer @ SoundCloud, I'm interested in both Research 🚀 and Engineering, I like reading papers and actually bringing their innovation to life. I've worked on Language model training from scratch to specific domains, Extracting information from text using Named Entity Recognition, Multi Modal search systems, Image classification and detection. Also worked in operations side such as model deployment, reproducibility, scaling and inference.   
 
 
 Check my Medium Articles: https://medium.com/@azizbelaweid
@@ -36,7 +36,7 @@ Connect to my LinkedIn profile: https://www.linkedin.com/in/mohamed-aziz-belawei
 - 💼 I have a masters's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help (If I can, haha);
 - 📫 Please email via azizbelaweid@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1Azg5eCpFtlMPyU5ChbMJr3xr3Ae49kRG/view?usp=share_link) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1tDHvFQJygvknG7zocrPQXqpYyXqJ_37o/view?usp=drive_link) to get more info.
 
   
 
