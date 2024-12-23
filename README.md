@@ -35,8 +35,6 @@ Connect to my LinkedIn profile: https://www.linkedin.com/in/mohamed-aziz-belawei
 
 - 💼 I have a masters's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help (If I can, haha);
-- 📫 Please email via azizbelaweid@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1tDHvFQJygvknG7zocrPQXqpYyXqJ_37o/view?usp=drive_link) to get more info.
 
   
 
